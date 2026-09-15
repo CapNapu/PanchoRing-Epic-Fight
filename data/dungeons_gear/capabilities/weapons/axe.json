@@ -1,0 +1,10 @@
+{
+  "attributes": {
+    "common": {
+      "armor_negation": 20,
+      "impact": 1.6,
+      "speed_bonus": 0.1
+    }
+  },
+  "type": "axe"
+}

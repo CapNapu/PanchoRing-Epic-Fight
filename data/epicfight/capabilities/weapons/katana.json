@@ -1,0 +1,11 @@
+{
+  "attributes": {
+    "common": {
+      "armor_negation": 10,
+      "damage_bonus": -1,
+      "impact": 0.8,
+      "max_strikes": 1
+    }
+  },
+  "type": "katana"
+}
